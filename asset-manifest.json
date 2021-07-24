@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/keepscore-app/static/js/app.42f5e50c.chunk.js",
+    "app.js.map": "/keepscore-app/static/js/app.42f5e50c.chunk.js.map",
+    "runtime~app.js": "/keepscore-app/static/js/runtime~app.4dec23d5.js",
+    "runtime~app.js.map": "/keepscore-app/static/js/runtime~app.4dec23d5.js.map",
+    "static/js/2.36c795fa.chunk.js": "/keepscore-app/static/js/2.36c795fa.chunk.js",
+    "static/js/2.36c795fa.chunk.js.map": "/keepscore-app/static/js/2.36c795fa.chunk.js.map",
+    "fonts/AntDesign.ttf": "/keepscore-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/keepscore-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/keepscore-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/keepscore-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/keepscore-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/keepscore-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/keepscore-app/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/keepscore-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/keepscore-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/keepscore-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/keepscore-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/keepscore-app/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/keepscore-app/favicon-16.png",
+    "favicon-32.png": "/keepscore-app/favicon-32.png",
+    "favicon.ico": "/keepscore-app/favicon.ico",
+    "index.html": "/keepscore-app/index.html",
+    "manifest.json": "/keepscore-app/manifest.json",
+    "serve.json": "/keepscore-app/serve.json",
+    "static/js/2.36c795fa.chunk.js.LICENSE.txt": "/keepscore-app/static/js/2.36c795fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.4dec23d5.js",
+    "static/js/2.36c795fa.chunk.js",
+    "static/js/app.42f5e50c.chunk.js"
+  ]
+}
