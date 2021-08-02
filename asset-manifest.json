@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/scorepad-app/static/js/app.07eb1e1c.chunk.js",
-    "app.js.map": "/scorepad-app/static/js/app.07eb1e1c.chunk.js.map",
+    "app.js": "/scorepad-app/static/js/app.d8515981.chunk.js",
+    "app.js.map": "/scorepad-app/static/js/app.d8515981.chunk.js.map",
     "runtime~app.js": "/scorepad-app/static/js/runtime~app.35ee6278.js",
     "runtime~app.js.map": "/scorepad-app/static/js/runtime~app.35ee6278.js.map",
-    "static/js/2.6b5f8126.chunk.js": "/scorepad-app/static/js/2.6b5f8126.chunk.js",
-    "static/js/2.6b5f8126.chunk.js.map": "/scorepad-app/static/js/2.6b5f8126.chunk.js.map",
+    "static/js/2.cb2f3a42.chunk.js": "/scorepad-app/static/js/2.cb2f3a42.chunk.js",
+    "static/js/2.cb2f3a42.chunk.js.map": "/scorepad-app/static/js/2.cb2f3a42.chunk.js.map",
     "fonts/AntDesign.ttf": "/scorepad-app/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/scorepad-app/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/scorepad-app/./fonts/Feather.ttf",
@@ -24,11 +24,11 @@
     "index.html": "/scorepad-app/index.html",
     "manifest.json": "/scorepad-app/manifest.json",
     "serve.json": "/scorepad-app/serve.json",
-    "static/js/2.6b5f8126.chunk.js.LICENSE.txt": "/scorepad-app/static/js/2.6b5f8126.chunk.js.LICENSE.txt"
+    "static/js/2.cb2f3a42.chunk.js.LICENSE.txt": "/scorepad-app/static/js/2.cb2f3a42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.35ee6278.js",
-    "static/js/2.6b5f8126.chunk.js",
-    "static/js/app.07eb1e1c.chunk.js"
+    "static/js/2.cb2f3a42.chunk.js",
+    "static/js/app.d8515981.chunk.js"
   ]
 }
