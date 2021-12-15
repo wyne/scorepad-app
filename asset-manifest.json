@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/scorepad-app/static/js/app.d8515981.chunk.js",
-    "app.js.map": "/scorepad-app/static/js/app.d8515981.chunk.js.map",
+    "app.js": "/scorepad-app/static/js/app.9408808d.chunk.js",
+    "app.js.map": "/scorepad-app/static/js/app.9408808d.chunk.js.map",
     "runtime~app.js": "/scorepad-app/static/js/runtime~app.35ee6278.js",
     "runtime~app.js.map": "/scorepad-app/static/js/runtime~app.35ee6278.js.map",
-    "static/js/2.cb2f3a42.chunk.js": "/scorepad-app/static/js/2.cb2f3a42.chunk.js",
-    "static/js/2.cb2f3a42.chunk.js.map": "/scorepad-app/static/js/2.cb2f3a42.chunk.js.map",
+    "static/js/2.a7edc625.chunk.js": "/scorepad-app/static/js/2.a7edc625.chunk.js",
+    "static/js/2.a7edc625.chunk.js.map": "/scorepad-app/static/js/2.a7edc625.chunk.js.map",
     "fonts/AntDesign.ttf": "/scorepad-app/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/scorepad-app/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/scorepad-app/./fonts/Feather.ttf",
@@ -24,11 +24,16 @@
     "index.html": "/scorepad-app/index.html",
     "manifest.json": "/scorepad-app/manifest.json",
     "serve.json": "/scorepad-app/serve.json",
-    "static/js/2.cb2f3a42.chunk.js.LICENSE.txt": "/scorepad-app/static/js/2.cb2f3a42.chunk.js.LICENSE.txt"
+    "static/js/2.a7edc625.chunk.js.LICENSE.txt": "/scorepad-app/static/js/2.a7edc625.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/scorepad-app/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/scorepad-app/static/media/heart.23b5c2c0.png",
+    "static/media/infographic.png": "/scorepad-app/static/media/infographic.68df0368.png",
+    "static/media/rocket.png": "/scorepad-app/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/scorepad-app/static/media/star.69c71386.png"
   },
   "entrypoints": [
     "static/js/runtime~app.35ee6278.js",
-    "static/js/2.cb2f3a42.chunk.js",
-    "static/js/app.d8515981.chunk.js"
+    "static/js/2.a7edc625.chunk.js",
+    "static/js/app.9408808d.chunk.js"
   ]
 }
